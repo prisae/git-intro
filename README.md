@@ -1,2 +1,3 @@
 # git-intro
-Collection of introductory slides for git
+
+Collection of introductory slides for git.
